@@ -316,3 +316,11 @@ header {
   margin: 0 auto;
   color: #afa8a0;
   line-height: 1.8; }
+
+  #fintech{
+    background: #fff;
+  }
+
+  #fintech i{
+    font-size: 80px;
+  }
