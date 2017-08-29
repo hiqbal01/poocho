@@ -321,6 +321,21 @@ header {
     background: #fff;
   }
 
+  #palmty{
+    background: #531d12;
+    color: #fff;
+  }
+
   #fintech i{
     font-size: 80px;
+  }
+
+  #palmty i{
+    font-size: 80px;
+    background: none;
+    color: #fff;
+  }
+
+  #palmty .text-muted {
+    color: #fff;
   }
